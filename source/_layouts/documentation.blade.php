@@ -46,7 +46,7 @@
         @stack('meta')
 
         @if ($page->production)
-            <!-- Global site tag (gtag.js) - Google Analytics -->
+            <!---- Global site tag (gtag.js) - Google Analytics -->
             <script async src="https://www.googletagmanager.com/gtag/js?id=UA-168455954-1"></script>
             <script>
             window.dataLayer = window.dataLayer || [];
